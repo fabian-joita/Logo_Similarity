@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+playwright
+pillow
+numpy
+scikit-learn
+cairosvg
+pandas
+tqdm
+urllib3
